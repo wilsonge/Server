@@ -15,7 +15,7 @@
 
     "require": {
         "php": ">=5.4.0",
-        "ralouphie/getallheaders": "~0.1.7",
+        "ralouphie/getallheaders": "~2.0",
         "whichbrowser/parser": "^2.0.20"
     }
 }
